@@ -22,4 +22,5 @@ Universidade Federal do Rio de Janeiro
 
 ## Publicação
 
-ENIAC 2023 (em breve)
+Janaina Gomide, Raquel Lobosco, and Guilherme Santos. 2023. Predicting Next Steps of a CFD Simulation using Deep Learning. In Anais do XX Encontro Nacional de Inteligência Artificial e Computacional, setembro 25, 2023, Belo Horizonte/MG, Brasil. SBC, Porto Alegre, Brasil, 771-781. DOI: https://doi.org/10.5753/eniac.2023.234442. 
+[LINK](https://sol.sbc.org.br/index.php/eniac/article/view/25743)
